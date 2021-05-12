@@ -10,6 +10,6 @@ div.first{
     height: 400px;
     width: 400px;
     color: #f1ff;
-    background: url("images/InkedFilipsKalas2_LIklipp.jpg") no-repeat 50% 50%;
+    background: url("./images/InkedFilipsKalas2_LIklipp.jpg") no-repeat 50% 50%;
     background-size: contain;
 }
