@@ -1,0 +1,42 @@
+
+h1 {
+    color: lightcoral;
+    height: auto;
+    width: fit-content;
+    background: -webkit-radial-gradient(top left, circle,green 20%, yellow 60%, blue 80%);
+
+}
+div.first{
+    height: 150px;
+    width: 200px;
+    color: #f1ff;
+    background: -webkit-linear-gradient(green, yellow, blue);
+}
+div.second{
+    height: 150px;
+    width: 200px;
+    color: #f1ff;
+    background: -webkit-radial-gradient(top left, circle,green 40%, yellow 60%, blue 70%);
+}
+
+div.third{
+    height: 150px;
+    width: 200px;
+    border: 1px solid #000;
+    color: #f1ff;
+    background: url("images/DODGE_RAM.jpg") no-repeat 50% 50%;
+    background-size: cover;
+}
+#first {
+    border: 2px dotted black;
+    padding: 20px;
+    background: lightblue;
+    background-clip: padding-box;
+}
+#second {
+    border: 2px dotted black;
+    padding: 20px;
+    background: lightblue;
+    width: 300px;
+    background-clip: content-box;
+}
