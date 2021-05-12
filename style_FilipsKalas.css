@@ -13,3 +13,13 @@ div.first{
     background: url("./images/InkedFilipsKalas2_LIklipp.jpg") no-repeat 50% 50%;
     background-size: contain;
 }
+
+div.text1 {
+    width: 400px;
+    margin: 19px;
+    }
+
+div.text2 {
+width: 400px;
+color: rgb(53, 25, 179);
+}
